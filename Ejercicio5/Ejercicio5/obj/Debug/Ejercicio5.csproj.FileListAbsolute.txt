@@ -1,0 +1,14 @@
+C:\Users\paula\OneDrive\Escritorio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Escritorio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Escritorio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\paula\OneDrive\Escritorio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\paula\OneDrive\Escritorio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\paula\OneDrive\Escritorio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\paula\OneDrive\Escritorio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
+P:\GitHub Repositories\Ejercicios_RefuerzoII\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+P:\GitHub Repositories\Ejercicios_RefuerzoII\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+P:\GitHub Repositories\Ejercicios_RefuerzoII\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+P:\GitHub Repositories\Ejercicios_RefuerzoII\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+P:\GitHub Repositories\Ejercicios_RefuerzoII\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+P:\GitHub Repositories\Ejercicios_RefuerzoII\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+P:\GitHub Repositories\Ejercicios_RefuerzoII\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
